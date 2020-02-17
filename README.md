@@ -1,6 +1,6 @@
 Here is my screenshot :
 
-![alt text](https://github.com/kwan27/mapbox-school-electric-charging-stations/blob/master/Screen%20Shot.png "Mapbox Screenshot")
+![alt text](https://github.com/kwan27/mapbox-school-electric-charging-stations/blob/master/Screen%20Shot.jpg "Mapbox Screenshot")
 
 Reflective Analysis:
 
