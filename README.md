@@ -8,6 +8,7 @@ This map was designed for mobile phones and tablets to help drivers locate the c
 
 I designed the map to after zooming in at or greater than 11.5x zoom. It allows the user to quickly locate where his or her destination is and allows the user to identify nearby charging stations. This was also done so that points appear do not overlap with one another. This map can be improved by using points for electric charging stations. If possible, we could enable text that allows the user to estimate the distance between their location and the nearest charging station. We could also include text to indicate whether the electric charging station is compatible with their type of vehicle. As this is a map of the City of Vancouver, we could also grey out cities not part of Vancouver such as Burnaby, Richmond, etc.  Overall, the map allows the user to navigate the city with their electric vehichle.
 
+
 Link to map: https://kwan27.github.io/mapbox-school-electric-charging-stations/mapbox-map-lab.html
 
 Help Received
